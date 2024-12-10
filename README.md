@@ -1,2 +1,2 @@
 # Devops
-This for my Devop project and courses:
+This is for my Devop project and courses:
